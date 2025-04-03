@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-03T15:30:43 IST" name="Suite" finished-at="2025-04-03T15:30:55 IST" duration-ms="12433">
+    <groups>
+      <group name="Master">
+        <method signature="TC002_Login.validateLogin()[pri:0, instance:testCase.TC002_Login@2fd953a6]" name="validateLogin" class="testCase.TC002_Login"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC002_Login.validateLogin()[pri:0, instance:testCase.TC002_Login@2fd953a6]" name="validateLogin" class="testCase.TC002_Login"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2025-04-03T15:30:43 IST" name="Test" finished-at="2025-04-03T15:30:55 IST" duration-ms="12433">
+      <class name="testCase.TC002_Login">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC002_Login@2fd953a6]" started-at="2025-04-03T15:30:43 IST" name="launchBrowser" finished-at="2025-04-03T15:30:53 IST" duration-ms="9878" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateLogin()[pri:0, instance:testCase.TC002_Login@2fd953a6]" started-at="2025-04-03T15:30:53 IST" name="validateLogin" finished-at="2025-04-03T15:30:55 IST" duration-ms="2269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCase.TC002_Login@2fd953a6]" started-at="2025-04-03T15:30:55 IST" name="closeBrowser" finished-at="2025-04-03T15:30:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCase.TC002_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

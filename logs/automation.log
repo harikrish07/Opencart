@@ -1,0 +1,17 @@
+2025-04-03 15:30:43 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\sarat\eclipse-workspace\OpenCart\master.xml"
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ADDING NODE BaseClass.launchBrowser(java.lang.String,java.lang.String)[pri:0, instance:null] 778911944
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ================ SORTING
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ADDING NODE BaseClass.closeBrowser()[pri:0, instance:null] 359424363
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ================ SORTING
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ADDING NODE TC002_Login.validateLogin()[pri:0, instance:testCase.TC002_Login@2fd953a6] 201598485
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ================ SORTING
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-04-03 15:30:43 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-04-03 15:30:53 INFO  TC002_Login:20 - Login validation starts
